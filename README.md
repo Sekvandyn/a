@@ -1,2 +1,3 @@
-# a
-yazdığım python kodları
+# PYTHON
+yazdığım python kodları... 
+öğrenciyken python ile yazdığım basit kodların ne işe yaradığını ve kodlarını burada paylaşacağım umarım birilerine ilham olabilirim
