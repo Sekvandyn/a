@@ -1,0 +1,2 @@
+# a
+yazdığım python kodları
